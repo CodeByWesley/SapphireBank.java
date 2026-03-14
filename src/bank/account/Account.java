@@ -7,5 +7,6 @@ public class Account {
    private String taxIdNumber;
    private String email;
    private String password;
+   private Address address;
    private double balance;
 }

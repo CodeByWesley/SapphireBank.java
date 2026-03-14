@@ -1,4 +1,6 @@
-public class address {
+package bank.account;
+
+public class Address {
     private String PostalCode;
     private String road;
     private String number;
