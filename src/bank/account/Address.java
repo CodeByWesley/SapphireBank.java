@@ -1,7 +1,7 @@
 package bank.account;
 
 public class Address {
-    private String PostalCode;
+    private String postalCode;
     private String road;
     private String number;
     private String neighborhood;
