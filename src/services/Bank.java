@@ -1,4 +1,4 @@
-package bank.account;
+package services;
 
 public class Bank {
 }
